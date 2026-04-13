@@ -7,11 +7,11 @@
 <!-- Banner -->
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/helloworldtang/helloworldtang/refs/heads/main/banner_light.png"
+    srcset="https://raw.githubusercontent.com/helloworldtang/helloworldtang/main/banner_light.png"
     media="(prefers-color-scheme: light)"
   />
   <img
-    src="https://raw.githubusercontent.com/helloworldtang/helloworldtang/refs/heads/main/banner_dark.png"
+    src="https://raw.githubusercontent.com/helloworldtang/helloworldtang/main/banner_dark.png"
     alt="Jackie Tang — AI Builder"
     width="100%"
     style="border-radius: 12px; max-width: 1280px;"
@@ -46,8 +46,8 @@ Code Quality Enthusiast &nbsp;|&nbsp; Continuously Evolving &nbsp;|&nbsp; 354 Pu
 
 <!-- Divider -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloworldtang/helloworldtang/refs/heads/main/divider_light.svg" />
-  <img src="https://raw.githubusercontent.com/helloworldtang/helloworldtang/refs/heads/main/divider_dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helloworldtang/helloworldtang/main/divider_light.svg" />
+  <img src="https://raw.githubusercontent.com/helloworldtang/helloworldtang/main/divider_dark.svg" width="100%" />
 </picture>
 
 <br/>
