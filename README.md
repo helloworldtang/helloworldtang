@@ -20,18 +20,28 @@
 
 <br/>
 
-<!-- Name & Tagline -->
 ### Hi there, I'm **Jackie Tang** (helloworldtang)
 
-近十年 Java 架构师 &nbsp;|&nbsp; 2026 **All in AI** &nbsp;|&nbsp; GPT / RAG / Agent / MCP / Function Calling
+All in AI &nbsp;|&nbsp; Java Architect to AI Builder &nbsp;|&nbsp; GPT / RAG / Agent / MCP / Function Calling
 
-代码整洁追求者 &nbsp;|&nbsp; 持续进化 &nbsp;|&nbsp; 354 Public Repos
+Code Quality Enthusiast &nbsp;|&nbsp; Continuously Evolving &nbsp;|&nbsp; 354 Public Repos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-354%20Repos-green?style=flat-square&logo=github&labelColor=1a1b2e" />
-  <img src="https://img.shields.io/badge/Stars-300+-gold?style=flat-square&logo=github&labelColor=1a1b2e" />
-  <img src="https://img.shields.io/badge/Followers-25-blue?style=flat-square&logo=github&labelColor=1a1b2e" />
-  <img src="https://img.shields.io/badge/Since-2015-orange?style=flat-square&logo=github&labelColor=1a1b2e" />
+  <a href="https://github.com/helloworldtang?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-354-green?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+  </a>
+  <a href="https://github.com/helloworldtang/followers">
+    <img src="https://img.shields.io/badge/Followers-25-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+  </a>
+  <a href="https://github.com/helloworldtang">
+    <img src="https://img.shields.io/github/stars/helloworldtang?color=gold&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+  </a>
+  <a href="https://github.com/helloworldtang">
+    <img src="https://img.shields.io/badge/Member_Since-2015-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+  </a>
+  <a href="https://github.com/helloworldtang?tab=achievements">
+    <img src="https://img.shields.io/badge/Top_Lang-Java_50%25-ff9f1c?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+  </a>
 </p>
 
 <!-- Divider -->
@@ -42,29 +52,23 @@
 
 <br/>
 
-<!-- Stats Cards -->
-| <img src="https://github-readme-stats.vercel.app/api?username=helloworldtang&theme=transparent&bg_color=0d1117&text_color=00e5ff&title_color=00e5ff&border_color=00e5ff40&border_radius=12&hide_rank=false&include_all_commits=true" width="100%"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloworldtang&theme=transparent&bg_color=0d1117&text_color=f0f5ff&title_color=ff9f1c&border_color=ff9f1c40&border_radius=12&layout=compact" width="100%"/> |
-|:---:|:---:|
-
-<br/>
-
 <!-- Tech Evolution -->
-## Tech Evolution / 技术演进
+## Tech Evolution
 
 ```
-  Past                      Present                    Future
-──────────────────────  ──────────────────────  ──────────────────────
-Java / Spring Boot       Python / AI                   Agent / MCP / RAG
-Redis / RocketMQ         GPT / LLM                      Multi-Agent Systems
-分布式事务               LangChain / LlamaIndex         AI Product Architecture
-Sa-Token 全家桶          LangGraph / RAG                Function Calling
-架构 · 设计 · 整洁代码   边学边踩 · 密集落地            持续进化 · 产品思维
+  Past                          Present                         Future
+-----------------------------   -----------------------------   -----------------------------
+Java / Spring Boot              Python / AI                          Agent / MCP / RAG
+Redis / RocketMQ                GPT / LLM                            Multi-Agent Systems
+Distributed Transactions        LangChain / LlamaIndex               AI Product Architecture
+Sa-Token Ecosystem              LangGraph / RAG                      Function Calling
+Architecture / Clean Code       Learn by Building                    Evolve with Purpose
 ```
 
 <br/>
 
 <!-- Featured Projects -->
-## Featured Projects / 代表项目
+## Featured Projects
 
 | Project | Stars | Description |
 |:---|:---:|:---|
@@ -80,20 +84,15 @@ Sa-Token 全家桶          LangGraph / RAG                Function Calling
 
 <br/>
 
-<!-- Contribution Graph -->
-<img src="https://github-contributions-api.jogruber.de/v4/helloworldtang?theme=dark&height=120" alt="Contribution Graph" width="100%" />
-
-<br/>
-
-<!-- Contact -->
-## Get in Touch / 联系方式
+<!-- Get in Touch -->
+## Get in Touch
 
 <p align="center">
   <a href="mailto:helloworld.tang@qq.com">
-    <img src="https://img.shields.io/badge/Email-helloworld.tang%40qq.com-00e5ff?style=flat-square&logo=gmail&labelColor=1a1b2e" />
+    <img src="https://img.shields.io/badge/Email-helloworld.tang%40qq.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b2e" />
   </a>
   <a href="https://github.com/helloworldtang">
-    <img src="https://img.shields.io/badge/GitHub-helloworldtang-00e5ff?style=flat-square&logo=github&labelColor=1a1b2e" />
+    <img src="https://img.shields.io/badge/GitHub-helloworldtang-00e5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
   </a>
 </p>
 
