@@ -23,7 +23,7 @@
 <!-- Name & Tagline -->
 ### Hi there, I'm **Jackie Tang** (helloworldtang)
 
-近十年 Java 架构师 &nbsp;|&nbsp; 2025 **All in AI** &nbsp;|&nbsp; GPT / RAG / Agent / MCP / Function Calling
+近十年 Java 架构师 &nbsp;|&nbsp; 2026 **All in AI** &nbsp;|&nbsp; GPT / RAG / Agent / MCP / Function Calling
 
 代码整洁追求者 &nbsp;|&nbsp; 持续进化 &nbsp;|&nbsp; 354 Public Repos
 
