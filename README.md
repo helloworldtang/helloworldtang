@@ -72,7 +72,7 @@ Architecture / Clean Code       Learn by Building                    Evolve with
 
 | Project | Stars | Description |
 |:---|:---:|:---|
-| [GPT_teacher-3.37M-cn](https://github.com/helloworldtang/GPT_teacher-3.37M-cn) | 254 | 让初学者45分钟跑通中文GPT，看清核心流程+训练+推理演示 |
+| [GPT_teacher-3.37M-cn](https://github.com/helloworldtang/GPT_teacher-3.37M-cn) | 253 | 让初学者45分钟跑通中文GPT，看清核心流程+训练+推理演示 |
 
 <br/>
 
