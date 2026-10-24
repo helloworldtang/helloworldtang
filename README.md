@@ -31,7 +31,7 @@ Code Quality Enthusiast &nbsp;|&nbsp; Continuously Evolving &nbsp;|&nbsp; 376 Pu
     <img src="https://img.shields.io/badge/Repos-376-green?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
   </a>
   <a href="https://github.com/helloworldtang/followers">
-    <img src="https://img.shields.io/badge/Followers-34-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+    <img src="https://img.shields.io/badge/Followers-35-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
   </a>
   <a href="https://github.com/helloworldtang">
     <img src="https://img.shields.io/github/stars/helloworldtang?color=gold&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
