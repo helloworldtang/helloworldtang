@@ -24,11 +24,11 @@
 
 All in AI &nbsp;|&nbsp; Java Architect to AI Builder &nbsp;|&nbsp; GPT / RAG / Agent / MCP / Function Calling
 
-Code Quality Enthusiast &nbsp;|&nbsp; Continuously Evolving &nbsp;|&nbsp; 380 Public Repos
+Code Quality Enthusiast &nbsp;|&nbsp; Continuously Evolving &nbsp;|&nbsp; 381 Public Repos
 
 <p align="center">
   <a href="https://github.com/helloworldtang?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-380-green?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+    <img src="https://img.shields.io/badge/Repos-381-green?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
   </a>
   <a href="https://github.com/helloworldtang/followers">
     <img src="https://img.shields.io/badge/Followers-35-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
