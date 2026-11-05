@@ -24,14 +24,14 @@
 
 All in AI &nbsp;|&nbsp; Java Architect to AI Builder &nbsp;|&nbsp; GPT / RAG / Agent / MCP / Function Calling
 
-Code Quality Enthusiast &nbsp;|&nbsp; Continuously Evolving &nbsp;|&nbsp; 381 Public Repos
+Code Quality Enthusiast &nbsp;|&nbsp; Continuously Evolving &nbsp;|&nbsp; 382 Public Repos
 
 <p align="center">
   <a href="https://github.com/helloworldtang?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-381-green?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+    <img src="https://img.shields.io/badge/Repos-382-green?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
   </a>
   <a href="https://github.com/helloworldtang/followers">
-    <img src="https://img.shields.io/badge/Followers-35-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
+    <img src="https://img.shields.io/badge/Followers-36-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
   </a>
   <a href="https://github.com/helloworldtang">
     <img src="https://img.shields.io/github/stars/helloworldtang?color=gold&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e" />
@@ -72,7 +72,7 @@ Architecture / Clean Code       Learn by Building                    Evolve with
 
 | Project | Stars | Description |
 |:---|:---:|:---|
-| [GPT_teacher-3.37M-cn](https://github.com/helloworldtang/GPT_teacher-3.37M-cn) | 256 | 让初学者45分钟跑通中文GPT，看清核心流程+训练+推理演示 |
+| [GPT_teacher-3.37M-cn](https://github.com/helloworldtang/GPT_teacher-3.37M-cn) | 257 | 让初学者45分钟跑通中文GPT，看清核心流程+训练+推理演示 |
 
 <br/>
 
